@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>akku.png</file>
+        <file>besch.png</file>
+        <file>bms.png</file>
+        <file>fahrdynamik.png</file>
+        <file>gaspedal.png</file>
+        <file>speed.png</file>
+        <file>temp.png</file>
+        <file>spannung.png</file>
+        <file>background.png</file>
+        <file>needle.png</file>
+        <file>besch_background.png</file>
+        <file>BMS_0.png</file>
+        <file>BMS_1.png</file>
+        <file>BMS_2.png</file>
+        <file>BMS_3.png</file>
+        <file>BMS_4.png</file>
+        <file>BMS_5.png</file>
+        <file>car.png</file>
+        <file>needle_car.png</file>
+    </qresource>
+</RCC>
