@@ -21,7 +21,8 @@ SOURCES += main.cpp\
     window_car.cpp \
     window_4.cpp \
     window_5.cpp \
-    window_6.cpp
+    window_6.cpp \
+    window_7.cpp
 
 HEADERS  += mainwindow.h \
     window_1.h \
@@ -30,7 +31,8 @@ HEADERS  += mainwindow.h \
     window_car.h \
     window_4.h \
     window_5.h \
-    window_6.h
+    window_6.h \
+    window_7.h
 
 FORMS    += mainwindow.ui
 
