@@ -428,9 +428,9 @@ void window_car::slot_paint()
         painter.setPen(QPen(Qt::black,1,Qt::SolidLine));
         painter.setRenderHint(QPainter::Antialiasing, true);
         QLinearGradient linearGradient(30,450,60,550);
-        linearGradient.setColorAt(1.0, Qt::red);
+        linearGradient.setColorAt(1.0, Qt::green);
         linearGradient.setColorAt(0.5, Qt::yellow);
-        linearGradient.setColorAt(0.3, Qt::green);
+        linearGradient.setColorAt(0.3, Qt::red);
         painter.setBrush(QBrush(linearGradient));
         painter.drawRect(30,y_2,30,height_2);
         //Draw Text for Federweg Wert
@@ -450,9 +450,9 @@ void window_car::slot_paint()
         painter.setPen(QPen(Qt::black,1,Qt::SolidLine));
         painter.setRenderHint(QPainter::Antialiasing, true);
         QLinearGradient linearGradient(280,200,310,300);
-        linearGradient.setColorAt(1.0, Qt::red);
+        linearGradient.setColorAt(1.0, Qt::green);
         linearGradient.setColorAt(0.5, Qt::yellow);
-        linearGradient.setColorAt(0.3, Qt::green);
+        linearGradient.setColorAt(0.3, Qt::red);
         painter.setBrush(QBrush(linearGradient));
         painter.drawRect(280,y_3,30,height_3);
         //Draw Text for Federweg Wert
@@ -472,9 +472,9 @@ void window_car::slot_paint()
         painter.setPen(QPen(Qt::black,1,Qt::SolidLine));
         painter.setRenderHint(QPainter::Antialiasing, true);
         QLinearGradient linearGradient(280,450,310,550);
-        linearGradient.setColorAt(1.0, Qt::red);
+        linearGradient.setColorAt(1.0, Qt::green);
         linearGradient.setColorAt(0.5, Qt::yellow);
-        linearGradient.setColorAt(0.3, Qt::green);
+        linearGradient.setColorAt(0.3, Qt::red);
         painter.setBrush(QBrush(linearGradient));
         painter.drawRect(280,y_4,30,height_4);
         //Draw Text for Federweg Wert
